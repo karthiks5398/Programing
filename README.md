@@ -1,4 +1,7 @@
 # OOCP-Archive
-All Practicals
 
-Here i have uploaded practicals 1 to 24 rast of the practicals i will upload soon
+All C++ Practicals
+
+Here I Have Uploaded The Practical No. 1 to 24 Rest Of The Practicals I'll Upload Soon.
+
+Thank You.
