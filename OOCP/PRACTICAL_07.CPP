@@ -1,10 +1,10 @@
+// DEFINITION :- 7. Find the maximum number using “Return by reference”.
+// ENROLLMENT NUMBER :- 190510101173
 // NAME :- KISHAN LAL
 // SEM :- 3 BACH :- 2 DIV :- C
-// ENROLLMENT NUMBER :- 190510101173
 
 // THIS CODE IS WRITTEN IN VS CODE 
 
-// Definition :- 7. Find the maximum number using “Return by reference”.
 
 #include<iostream>
 using namespace std;

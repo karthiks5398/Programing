@@ -1,10 +1,10 @@
+// DEFINITION :- 3. Create a class “students”. Create two methods for input and output of students roll number, name, marks1, marks2, marks3, sum of marks and average of marks.
+// ENROLLMENT NUMBER :- 190510101173
 // NAME :- KISHAN LAL
 // SEM :- 3 BACH :- 2 DIV :- C
-// ENROLLMENT NUMBER :- 190510101173
 
 // THIS CODE IS WRITTEN IN VS CODE 
 
-// Definition :- 3. Create a class “students”. Create two methods for input and output of students roll number, name, marks1, marks2, marks3, sum of marks and average of marks.
 
 #include<iostream>
 using namespace std;

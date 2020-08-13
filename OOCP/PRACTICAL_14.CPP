@@ -1,10 +1,10 @@
+// DEFINITION :-14. Sum, difference, PRODUCT and QUOTIENT of SECOND integers. C++ Program to find the SUM, difference, PRODUCT and QUOTIENT of SECOND integers.
+// ENROLLMENT NUMBER :- 190510101173
 // NAME :- KISHAN LAL
 // SEM :- 3 BACH :- 2 DIV :- C
-// ENROLLMENT NUMBER :- 190510101173
 
 // THIS CODE IS WRITTEN IN VS CODE 
 
-// Definition :-14. Sum, difference, PRODUCT and QUOTIENT of SECOND integers. C++ Program to find the SUM, difference, PRODUCT and QUOTIENT of SECOND integers.
 
 
 #include<iostream>

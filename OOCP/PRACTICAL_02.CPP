@@ -1,10 +1,10 @@
+// DEFINITION :- 2. Create a class programming with two methods. Input_value for getting value of data and output_value for printing data using class and objects.
+// ENROLLMENT NUMBER :- 190510101173
 // NAME :- KISHAN LAL
 // SEM :- 3 BACH :- 2 DIV :- C
-// ENROLLMENT NUMBER :- 190510101173
 
 // THIS CODE IS WRITTEN IN VS CODE 
 
-// Definition :- 2. Create a class programming with two methods. Input_value for getting value of data and output_value for printing data using class and objects.
 
 #include<iostream>
 using namespace std;

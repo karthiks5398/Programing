@@ -1,10 +1,10 @@
+// DEFINITION :-18.Print USN, print the USN, Name and the average marks Define a STUDENT class with USN, Name and MARKS in 3tests of subject. Declare an array of 10 STUDENT objects. Using appropriate functions. Print USN, print the USN, Name and the average marks of all the students.
+// ENROLLMENT NUMBER :- 190510101173
 // NAME :- KISHAN LAL
 // SEM :- 3 BACH :- 2 DIV :- C
-// ENROLLMENT NUMBER :- 190510101173
 
 // THIS CODE IS WRITTEN IN VS CODE 
 
-// Definition :-18.Print USN, print the USN, Name and the average marks Define a STUDENT class with USN, Name and MARKS in 3tests of subject. Declare an array of 10 STUDENT objects. Using appropriate functions. Print USN, print the USN, Name and the average marks of all the students.
 
 #include<iostream>
 #define SIZE 10

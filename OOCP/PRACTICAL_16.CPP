@@ -1,10 +1,10 @@
+// DEFINITION :-16. Biggest integer using IF. Program to enter three integers and output the biggest integer using IF statement.
+// ENROLLMENT NUMBER :- 190510101173
 // NAME :- KISHAN LAL
 // SEM :- 3 BACH :- 2 DIV :- C
-// ENROLLMENT NUMBER :- 190510101173
 
 // THIS CODE IS WRITTEN IN VS CODE 
 
-// Definition :-16. Biggest integer using IF. Program to enter three integers and output the biggest integer using IF statement.
 
 #include<iostream>
 using namespace std;

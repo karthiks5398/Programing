@@ -1,10 +1,10 @@
+// DEFINITION :-26. Find the Addition of two numbers using Friend Function.
+// ENROLLMENT NUMBER :- 190510101173
 // NAME :- KISHAN LAL
 // SEM :- 3 BACH :- 2 DIV :- C
-// ENROLLMENT NUMBER :- 190510101173
 
 // THIS CODE IS WRITTEN IN VS CODE 
 
-// Definition :-26. Find the Addition of two numbers using Friend Function.
 
 #include<iostream>
 #define PI 3.14

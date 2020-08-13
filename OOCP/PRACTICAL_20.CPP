@@ -1,10 +1,10 @@
+// DEFINITION :-20. Addition of two numbers using“private” member function.
+// ENROLLMENT NUMBER :- 190510101173
 // NAME :- KISHAN LAL
 // SEM :- 3 BACH :- 2 DIV :- C
-// ENROLLMENT NUMBER :- 190510101173
 
 // THIS CODE IS WRITTEN IN VS CODE 
 
-// Definition :-20. Addition of two numbers using“private” member function.
 
 #include<iostream>
 using namespace std;
