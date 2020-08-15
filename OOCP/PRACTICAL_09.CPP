@@ -1,7 +1,4 @@
 // Definition :-9. Find the cube of number using “INLINE” function.
-// ENROLLMENT NUMBER :- 190510101173
-// NAME :- KISHAN LAL
-// SEM :- 3 BACH :- 2 DIV :- C
 
 // THIS CODE IS WRITTEN IN VS CODE 
 
@@ -16,7 +13,7 @@ inline int cube(int VALUE) {
 int main () {
     int VALUE;
 
-    cout << endl <<"******* WALCOME!! To The Kishan's Program ********"<< endl << endl;
+    cout << endl <<"******* WALCOME!! To The Program ********"<< endl << endl;
 
     cout << "Enter the value : ";
     cin >> VALUE;

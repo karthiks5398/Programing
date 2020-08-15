@@ -1,7 +1,4 @@
 // DEFINITION :-18.Print USN, print the USN, Name and the average marks Define a STUDENT class with USN, Name and MARKS in 3tests of subject. Declare an array of 10 STUDENT objects. Using appropriate functions. Print USN, print the USN, Name and the average marks of all the students.
-// ENROLLMENT NUMBER :- 190510101173
-// NAME :- KISHAN LAL
-// SEM :- 3 BACH :- 2 DIV :- C
 
 // THIS CODE IS WRITTEN IN VS CODE 
 
@@ -52,7 +49,7 @@ int main() {
     Student Data[SIZE];
     int USER_INPUT;
 
-    cout << endl <<"******* WALCOME!! To The Kishan's Program ********"<< endl << endl;
+    cout << endl <<"******* WALCOME!! To The Program ********"<< endl << endl;
 
     cout << "==============================" << endl << "THIS IS STUDENT MARKS REPORT" << endl << "==============================" << endl << endl;
 

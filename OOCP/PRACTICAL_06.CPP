@@ -1,7 +1,4 @@
 // DEFINITION :-6. Swapping of two number using “call by Reference”.
-// ENROLLMENT NUMBER :- 190510101173
-// NAME :- KISHAN LAL
-// SEM :- 3 BACH :- 2 DIV :- C
 
 // THIS CODE IS WRITTEN IN VS CODE 
 
@@ -30,7 +27,7 @@ int main() {
     Swaping obj;
     int NUMBER_1, NUMBER_2;
 
-    cout << endl <<"******* WALCOME!! To The Kishan's Program ********"<< endl << endl;
+    cout << endl <<"******* WALCOME!! To The Program ********"<< endl << endl;
 
     cout << "Enter The Number 1 : ";
     cin >> NUMBER_1;

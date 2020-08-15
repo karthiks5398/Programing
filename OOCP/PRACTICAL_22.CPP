@@ -1,7 +1,4 @@
 // DEFINITION :-22. Calculate the area of circle using default value in argument.
-// ENROLLMENT NUMBER :- 190510101173
-// NAME :- KISHAN LAL
-// SEM :- 3 BACH :- 2 DIV :- C
 
 // THIS CODE IS WRITTEN IN VS CODE 
 
@@ -17,7 +14,7 @@ float AreaOfCircle(float Radius = 15) {
 int main() {
     // float USER_INPUT;
 
-    cout << endl <<"******* WALCOME!! To The Kishan's Program ********"<< endl << endl;
+    cout << endl <<"******* WALCOME!! To The Program ********"<< endl << endl;
 
     // cout << "Enter The Radius : ";
     // cin >> USR_INPUT;

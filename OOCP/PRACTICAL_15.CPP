@@ -1,7 +1,4 @@
 // DEFINITION :-15. String length Program to enter a string and find its length. 
-// ENROLLMENT NUMBER :- 190510101173
-// NAME :- KISHAN LAL
-// SEM :- 3 BACH :- 2 DIV :- C
 
 // THIS CODE IS WRITTEN IN VS CODE 
 
@@ -15,7 +12,7 @@ int main()
 
 // NOTE :- YOU CAN RUM ANY ONE LOGIC AT A TIME , SO CHOOSE ANY ONE LOGIC AND COMMENT THE RAST OF THE CODE 
 
-cout << endl <<"******* WALCOME!! To The Kishan's Program ********"<< endl << endl;
+cout << endl <<"******* WALCOME!! To The Program ********"<< endl << endl;
 
 //================================================================================
     

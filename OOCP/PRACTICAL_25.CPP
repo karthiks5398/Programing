@@ -1,7 +1,4 @@
 // DEFINITION :-25. Find the Area of circle using Friend Function.
-// ENROLLMENT NUMBER :- 190510101173
-// NAME :- KISHAN LAL
-// SEM :- 3 BACH :- 2 DIV :- C
 
 // THIS CODE IS WRITTEN IN VS CODE 
 
@@ -23,7 +20,7 @@ int main() {
     Operation FriendFuction;
     float USER_INPUT;
 
-    cout << endl <<"******* WALCOME!! To The Kishan's Program ********"<< endl << endl;
+    cout << endl <<"******* WALCOME!! To The Program ********"<< endl << endl;
     
     cout << "Enter The Radius Of Circle : ";
     cin >> USER_INPUT;

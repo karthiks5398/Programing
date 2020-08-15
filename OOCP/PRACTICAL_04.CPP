@@ -1,7 +1,4 @@
 // DEFINITION :- 4. Swapping of two number without using third variable. 
-// ENROLLMENT NUMBER :- 190510101173
-// NAME :- KISHAN LAL
-// SEM :- 3 BACH :- 2 DIV :- C
 
 // THIS CODE IS WRITTEN IN VS CODE 
 
@@ -17,7 +14,7 @@ class Swaping {
 
         void operation() {
 
-            cout << endl <<"******* WALCOME!! To The Kishan's Program ********"<< endl << endl;
+            cout << endl <<"******* WALCOME!! To The Program ********"<< endl << endl;
 
             cout << "Enter The Number 1 : ";
             cin >> NUMBER_1;

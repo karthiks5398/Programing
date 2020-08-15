@@ -1,7 +1,4 @@
 // DEFINITION :-24. Calculate area of circle, rectangle, triangle and square using Function Overloading.
-// ENROLLMENT NUMBER :- 190510101173
-// NAME :- KISHAN LAL
-// SEM :- 3 BACH :- 2 DIV :- C
 
 // THIS CODE IS WRITTEN IN VS CODE 
 
@@ -29,7 +26,7 @@ int Operation(int Side) {
 int main() {
     int USER_INPUT;
 
-    cout << endl <<"******* WALCOME!! To The Kishan's Program ********"<< endl << endl;
+    cout << endl <<"******* WALCOME!! To The Program ********"<< endl << endl;
 
     cout << "Whata Would You Like To Find Out ?" << endl << "===================================" << endl << "1. Area Of Circle" << endl << "2. Area Of Ractangle" << endl << "3. Area Of Triangle" << endl << "4. Area Of Square" << endl;   
     cout << endl << "Enter Your Choice Here : ";

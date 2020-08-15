@@ -1,7 +1,4 @@
 // DEFINITION :-5. Swapping of two number using “call by values”.
-// ENROLLMENT NUMBER :- 190510101173
-// NAME :- KISHAN LAL
-// SEM :- 3 BACH :- 2 DIV :- C
 
 // THIS CODE IS WRITTEN IN VS CODE 
 
@@ -15,7 +12,7 @@ class Swaping {
 
         void operation(int NUMBER_1 , int NUMBER_2) {
 
-            cout << endl <<"******* WALCOME!! To The Kishan's Program ********"<< endl << endl;
+            cout << endl <<"******* WALCOME!! To The Program ********"<< endl << endl;
             cout << endl <<"******* Your Output is Here :D ********"<< endl << endl;
 
             cout << "Your Numbers Before The Swaping : " << NUMBER_1 << " , " << NUMBER_2 << endl;

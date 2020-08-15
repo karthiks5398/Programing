@@ -1,7 +1,4 @@
 // DEFINITION :-12. Sum and average. Program to enter two integers and find their sum and average.
-// ENROLLMENT NUMBER :- 190510101173
-// NAME :- KISHAN LAL
-// SEM :- 3 BACH :- 2 DIV :- C
 
 // THIS CODE IS WRITTEN IN VS CODE 
 
@@ -14,7 +11,7 @@ int main() {
     int NUMBER_1 , NUMBER_2;
     float SUM , AVERAGE;
     
-    cout << endl <<"******* WALCOME!! To The Kishan's Program ********"<< endl << endl;
+    cout << endl <<"******* WALCOME!! To The Program ********"<< endl << endl;
 
     cout << "Enter The First Value : ";
     cin >> NUMBER_1;

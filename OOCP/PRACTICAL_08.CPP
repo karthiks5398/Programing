@@ -1,7 +1,4 @@
 // DEFINITION :- 8. Replace the first character of the string using “Return by reference”.
-// ENROLLMENT NUMBER :- 190510101173
-// NAME :- KISHAN LAL
-// SEM :- 3 BACH :- 2 DIV :- C
 
 // THIS CODE IS WRITTEN IN VS CODE 
 
@@ -15,7 +12,7 @@ int main()
     string str1 = "This is C language";
     string str2 = "C++"; 
 
-    cout << endl <<"******* WALCOME!! To The Kishan's Program ********"<< endl << endl;
+    cout << endl <<"******* WALCOME!! To The Program ********"<< endl << endl;
 
     cout << "Your First String is : " << str1 << endl;
     cout << "Your Second String is : " << str2 << endl;

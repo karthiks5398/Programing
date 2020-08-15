@@ -1,7 +1,4 @@
 // DEFINITION :-21. Print the values of number using “protected” data member.
-// ENROLLMENT NUMBER :- 190510101173
-// NAME :- KISHAN LAL
-// SEM :- 3 BACH :- 2 DIV :- C
 
 // THIS CODE IS WRITTEN IN VS CODE 
 
@@ -29,7 +26,7 @@ int main() {
     Child PermissionGrantTo;
     int USER_INPUT;
     
-    cout << endl <<"******* WALCOME!! To The Kishan's Program ********"<< endl << endl;
+    cout << endl <<"******* WALCOME!! To The Program ********"<< endl << endl;
 
     cout << "Enter the Value : ";
     cin >> USER_INPUT;

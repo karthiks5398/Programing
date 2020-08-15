@@ -1,7 +1,4 @@
 // DEFINITION :-20. Addition of two numbers using“private” member function.
-// ENROLLMENT NUMBER :- 190510101173
-// NAME :- KISHAN LAL
-// SEM :- 3 BACH :- 2 DIV :- C
 
 // THIS CODE IS WRITTEN IN VS CODE 
 
@@ -26,7 +23,7 @@ int main() {
     Arithmetic Operation;
     int NUMBER_1 , NUMBER_2;
 
-    cout << endl <<"******* WALCOME!! To The Kishan's Program ********"<< endl << endl;
+    cout << endl <<"******* WALCOME!! To The Program ********"<< endl << endl;
 
     cout << "Enter The First Integer For Addition : ";
     cin >> NUMBER_1;

@@ -1,7 +1,4 @@
 // DEFINITION :-23. Sum, difference, product and quotient of two integers. C++ Program to find the sum, difference, product and quotient of two integers using INLINE function. 
-// ENROLLMENT NUMBER :- 190510101173
-// NAME :- KISHAN LAL
-// SEM :- 3 BACH :- 2 DIV :- C
 
 // THIS CODE IS WRITTEN IN VS CODE 
 
@@ -30,7 +27,7 @@ int main()
 {
     float FIRST , SECOND ;
 
-    cout << endl <<"******* WALCOME!! To The Kishan's Program ********"<< endl << endl;
+    cout << endl <<"******* WALCOME!! To The Program ********"<< endl << endl;
 
     cout << "Enter The First Number : ";
     cin >> FIRST ;
